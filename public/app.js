@@ -32,7 +32,7 @@ var app = function(){
   newCats(cat);
   }
 
-  setInterval(function() {alert("DOWNLOADING VIRUS...");}, 1000);
+  setInterval(function() {alert("DOWNLOADING VIRUS...");}, 4000);
 };
 
 window.onload = app;
